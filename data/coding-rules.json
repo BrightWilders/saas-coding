@@ -1,4 +1,18 @@
-{
-  "schemaVersion": 2,
-  "rules": []
-}
+	
+schemaVersion	3
+updatedAt	"2026-10-26T16:31:47.005Z"
+rules	
+0	
+id	"rule-1793031338234-ag60k"
+vendor	"Cursor"
+invoice	"token-based usage"
+memo	"AI tokens"
+item	"AI tools"
+keywords	[]
+aliases	[]
+1	
+vendor	"Cursor"
+invoice	"Cursor Teams (Standard)"
+memo	"Cursor Teams Standard"
+item	"Development"
+id	"rule-1793032181284-tyf9zz"
