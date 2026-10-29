@@ -1,6 +1,6 @@
 	
 schemaVersion	3
-updatedAt	"2026-10-26T16:31:47.005Z"
+updatedAt	"2026-10-29T17:45:38.405Z"
 rules	
 0	
 id	"rule-1793031338234-ag60k"
@@ -11,8 +11,54 @@ item	"AI tools"
 keywords	[]
 aliases	[]
 1	
+id	"rule-1793032181284-tyf9zz"
 vendor	"Cursor"
 invoice	"Cursor Teams (Standard)"
 memo	"Cursor Teams Standard"
 item	"Development"
-id	"rule-1793032181284-tyf9zz"
+keywords	[]
+aliases	[]
+2	
+id	"rule-1793032992826-lp58ly"
+vendor	"Hex"
+invoice	"Team Edition – Author Seats"
+memo	"Additional user"
+item	"Data Analytics"
+keywords	[]
+aliases	[]
+3	
+id	"rule-1793033044428-835pw8"
+vendor	"Hex"
+invoice	"Credit Top-u"
+memo	"AI credits"
+item	"AI Tools"
+keywords	[]
+aliases	[]
+4	
+id	"rule-1793047598437-vrjjqg"
+vendor	"OpenAI"
+invoice	"ChatGPT Business Premium Subscription"
+memo	"ChatGPT Business Premium Subscription"
+item	"AI tools"
+keywords	[]
+aliases	[]
+5	
+id	"rule-1793235320467-6au4xy"
+vendor	"Vercel"
+invoice	"Speed Insights Plus"
+memo	"Speed Insights Plus"
+item	"Development"
+keywords	[]
+aliases	[]
+6	
+vendor	"8090"
+invoice	"Software Factory"
+memo	"Invoice # AKVA7FQL-0004- AI Software Development Platform - 9/26-10/26/26"
+item	"AI Software Development"
+id	"rule-1793295589029-1s776a"
+7	
+vendor	"Resend"
+invoice	"Marketing Pro, Transactional Pro"
+memo	"Invoice FD2HTG8Q-0006 :  Marketing Pro and Transactional Pro subscriptions 9/28-10/28/26"
+item	"Development"
+id	"rule-1793295705986-dnsmpy"
